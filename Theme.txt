@@ -1,0 +1,7 @@
+Name: Game Theme
+Author: Kinetic Seven Limited
+Website: http://www.kineticseven.com
+Description: Blank Theme for using with Games
+Version: 1.0
+# todo: provide tags
+# Tags: Classic, Serif
