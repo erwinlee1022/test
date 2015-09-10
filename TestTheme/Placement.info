@@ -1,0 +1,7 @@
+﻿<Placement>  
+  <Place Parts_PackageConsumer_Edit="Content:2"/>
+  <Place Parts_ThemeDeploymentSettings_Edit="Content:0"/>
+  <Match DisplayType="Detail">
+    <Place Parts_PackageConsumer="Content:2"/>  
+  </Match>
+</Placement>
